@@ -1,9 +1,9 @@
 ---
-title:  Jekyll+Chirpy+Github pages 搭建博客 
-date:   2023-07-05 23:00:00 +0800
+title: Jekyll + Chirpy + Github pages 搭建博客 
+date: 2023-05-12 23:00:00 +0800
 categories: [blog, jekyll]
 tags: [blog, jekyll]
-author: ponng
+author: 
 ---
 
 ## 初始化Jekyll博客项目和Chirpy主题
